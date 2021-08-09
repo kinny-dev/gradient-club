@@ -1,9 +1,9 @@
-# obnoxious.club
+# gradient.club
 🌹Website for my team's portfolio
 
-Preview - https://obnoxious.club/
+Preview - https://gradient.club
 
-![Made with love in Poland](https://madewithlove.now.sh/pl?heart=true)
+![Made with love in Germany](https://madewithlove.now.sh/de?heart=true)
 
 ## Features
 * Title and icon changer (every 2 seconds)
